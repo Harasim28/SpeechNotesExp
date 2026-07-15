@@ -1,0 +1,6 @@
+build/
+*.pro.user
+*.rpm
+lib/armv7hl/*.a
+models/*.bin
+*.tar.bz2
